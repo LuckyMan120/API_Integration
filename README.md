@@ -6,7 +6,7 @@ npm install
 ```
 >  Run
 ```
-npx nodemon
+npx nodemon or npm start
 ```
 
 ## Front End
