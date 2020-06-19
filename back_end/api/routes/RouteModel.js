@@ -18,7 +18,7 @@ router.route('/all').get((req, res) =>{
     chargebee.configure({site : "kitces",
       api_key : "live_rFgkk8fXHznL4tvIWdavqz0HQROD6cdFF"});
     chargebee.subscription.list({
-      // "limit": 100,
+      	"limit": 100,
         "sort_by[desc]" : "created_at",
         // "offset": 101
     }).request(function(error,result) {
