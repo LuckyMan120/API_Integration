@@ -4,7 +4,7 @@
 ```
 npm install
 ```
-
+>  Run
 ```
 npx nodemon
 ```
@@ -13,6 +13,8 @@ npx nodemon
 ```
 npm install
 ```
+
+> Run
 
 ```
 npm run serve
