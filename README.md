@@ -1,6 +1,8 @@
 # API_Integration
 
 ## Back End
+
+>  Install
 ```
 npm install
 ```
@@ -10,11 +12,13 @@ npx nodemon or npm start
 ```
 
 ## Front End
+
+>  Install
 ```
 npm install
 ```
 
-> Run
+>  Run
 
 ```
 npm run serve
